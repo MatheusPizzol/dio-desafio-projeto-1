@@ -1,0 +1,7 @@
+# **Módulo I - Conteúdo de abertura** - Concluído
+
+- **Curso** - Boas-Vindas - 100% Concluído
+- **Curso** - Seja Protagonista - 100% Concluído
+- **Curso** - Introdução à Programação - 100% Concluído
+- **Curso** - Introdução ao Git/GitHub - 100% Concluído
+- **Curso** - Desafio de Projeto - 100% Concluído
